@@ -34,3 +34,5 @@ Sinta-se à vontade para contribuir com melhorias para este projeto. Você pode 
 
 Este é um projeto feito apenas para estudo de com objetivo de aprimoramento.
 
+## img ilustrativa do projeto
+![imagem ilustrativa](https://github.com/alandenisson/Exercicio-01-Login-Form-in-HTML-CSS/assets/154476905/f01ea29d-cdc9-42d4-86c1-148c22bf567a)
